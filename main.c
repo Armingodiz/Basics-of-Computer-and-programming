@@ -107,7 +107,7 @@ int main()
                     textcolor(15);
                     printf("  ");
                 }
-                //printf("%c",visual_map[i][j]);
+                printf("%c",visual_map[i][j]);
             }
             printf("\n");
         }
